@@ -678,7 +678,7 @@ prices
 
 
 # Printing prices
-
+# Print can only print the first argument. cat is better. 
 ```{r print_prices, eval = FALSE}
 cat("Price 1 is", prices[1])
 cat("Price 2 is", prices[2])
